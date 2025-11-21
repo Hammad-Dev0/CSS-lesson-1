@@ -1,0 +1,46 @@
+/* universal selector */
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+} */
+
+#paragraph {
+    color: #000;    
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    background-color: lightgreen;
+}
+p{
+    color: red;
+
+}
+h1 {
+    color: green;
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+}   
+
+.class {
+    color: purple;
+    font-size: 16px;
+    font-style: italic;
+}   
+
+h4,p{
+
+    color:chocolate;
+    text-align: center;
+}
+
+#one {
+    color:red;
+    opacity: 0.9;
+}
